@@ -12,7 +12,7 @@ In order to be successful in WDI, you really have to enjoy programming, and the 
 2. **[Set up your computer](#part2) to do some web development**,
 3. **Use what you’ve learned from Dash to [build a simple website](#part3),** 
 4. **Make your site live by [uploading it to kissr.com](#part4), and then,**
-5. **Do some research on how the internet works and prepare to answer [the following questions](#part5) during your interview. **
+5. **Do some research on how the internet works and prepare to answer [the following questions](#part5) during your interview.**
 
 
 We expect this assignment to take you approximately 10-15 hours. You should be prepared to talk through your code during the interview and share what outside resources you used, if any. If you get stuck, try to get through it on your own. If you’re **really** stuck, Google (and many other online resources) can help. Please let us know if you have any questions!
@@ -43,10 +43,10 @@ Here is some starter code for the image carousel for you to work with. Don’t c
 
 ####Javascript task one - event handlers
 
-Create a button on your About Me page. Use some Javascript to make the following events occur: 
+Create two buttons on your About Me page. Use some Javascript to make the following events occur: 
 
-1. Displays a message when you click it. 
-2. Changes color when your mouse hovers over it.
+1. Displays an alert message when you click the first button. 
+2. Changes the background color when your mouse hovers over the second button.
 
 ####Javascript task two - image carousel
 
@@ -74,10 +74,10 @@ Go to your Kissr URL your_domain.kissr.com to see if your site is working. Make 
 
 ###<a name="part5">(5) Understand how the internet works</a>
 
-1. **What is a URL?** 
-2. **What is an IP address?** 
-3. **If you typed www.Google.com into your browser, how would your computer know what to display? And where does it get this information?** 
-4. **What response would you receive if you wanted to visit a website that didn't exist?**
-5. **What is the difference between HTTP and HTTPS?** 
+1. **What is an IP address?** 
+2. **What is an HTTP GET request used for? What is an HTTP POST request used for?** 
+3. **What is the HTTP response code for a successful request? A failed request?**
+4. **What is the DOM?** 
+5. **What is a cookie?**
 
 
